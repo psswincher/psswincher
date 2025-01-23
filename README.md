@@ -26,6 +26,7 @@ Finally, I have strong professional experience in:
 * Storytelling and coaching
 
 Past Projects:
+* Community Subscription Manager and Discord Bot (2023)
 * What to Wear (TripleTen, 2024)
 * Game Library Manager (TripleTen Summit project, used today by a restaurant in Austin, TX)
 * Battlemap Navigator
